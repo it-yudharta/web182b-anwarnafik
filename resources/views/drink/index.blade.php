@@ -5,19 +5,19 @@
     <div class="row justify-content-center">
         <div class="col-md-8">
             <div class="card">
-                <div class="card-header">Menu
+                <div class="card-header">Menu Minuman
                     <a class="btn btn-primary float-right" href="/drink/tambah">Tambah</a>
                 </div>
 
                 <div class="card-body">
-                    <table class="table table-active">
+                    <table class="table table-dark">
                     <thead>
                         <tr>
                         <th scope="col">No</th>
                         <th scope="col">Minuman</th>
                         <th scope="col">Jenis</th>
                         <th scope="col">Harga</th>
-                        <th scope="col">Manage</th>
+                        <th scope="col">Manage Data</th>
                         </tr>
                     </thead>
                     <tbody>

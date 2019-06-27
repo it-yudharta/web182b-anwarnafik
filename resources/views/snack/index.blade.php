@@ -5,7 +5,7 @@
     <div class="row justify-content-center">
         <div class="col-md-8">
             <div class="card">
-                <div class="card-header">Menu
+                <div class="card-header">Menu Makanan Ringan
                 <a class="btn btn-primary float-right" href="/snack/tambah">Tambah</a>
                 </div>
 
@@ -15,9 +15,10 @@
                     <thead>
                         <tr>
                             <td>No</td>
-                            <td>camilan</td>
-                            <td>jenis</td>
-                            <td>harga</td>
+                            <td>Camilan</td>
+                            <td>Jenis</td>
+                            <td>Harga</td>
+                            <td>Manage Data</td>
                         </tr>
                     </thead>
                     <tbody>
